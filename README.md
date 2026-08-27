@@ -24,7 +24,7 @@ Main responsibilities include:
 | Student ID | 241711077 |
 | Project | ServiceHub |
 | Microservice | Provider Service |
-| GCP Project ID | Not created yet |
+| GCP Project ID | project-a6d8ea92-fb5d-4ed6-99d |
 
 ---
 
