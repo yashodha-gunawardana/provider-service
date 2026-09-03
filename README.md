@@ -174,17 +174,3 @@ provider-service/
 ## 🔗 GitHub Repository
 
 https://github.com/yashodha-gunawardana/provider-service
-
----
-
-## 📌 Project Status
-
-- Java 25: ✅
-- Spring Boot: ✅
-- MySQL: ✅
-- Eureka Client: ✅
-- Config Client: ✅
-- GitHub Repository: ✅
-- GCP Deployment: ⏳
-
----
